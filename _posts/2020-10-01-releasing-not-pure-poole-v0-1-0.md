@@ -3,8 +3,7 @@ layout: post
 title: Joke 1
 author: Unknown
 tags:
-- jekyll theme
-- jekyll
+- Joke 1
 date: 2023-11-08 22:33 +0800
 ---
 一男子没有女朋友，去找算命先生算一卦。
