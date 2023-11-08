@@ -5,10 +5,12 @@ author: Songzi Vong
 tags:
 - jekyll theme
 - jekyll
-date: 2020-10-01 13:56 +0800
+date: 2023-11-08 22:33 +0800
 ---
-The Jekyll theme **Not Pure Poole** v0.1.0 was released!
+一男子没有女朋友，去找算命先生算一卦。
 
-Not Pure Poole is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+算命先生说：“你前半生注定没有女人”。
 
-For more information about this theme, you can read the [README](https://github.com/vszhub/not-pure-poole/blob/master/README.md) file.
+男子眼前一亮，“那后半生呢？”
+
+“后半生你就习惯了”，算命先生说。
