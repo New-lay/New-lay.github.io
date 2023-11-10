@@ -1,17 +1,9 @@
 ---
 layout: post
-title: Testing MathJax
-tags: mathjax
-math: true
-date: 2023-11-08 22:52 +0800
+title: Joke 3
+tags: joke
+date: 2023-11-10 16:17 +0800
 ---
-Not Pure Poole supports [MathJax](https://www.mathjax.org/). You can enable it on a page by setting `math: true` in the front matter.
+小鸟虽然已经有女朋友了，可是还是像一个大木头，大家都笑他笨，根本不知道什么叫情调，小鸟下决心要雪耻。有一天晚上，小鸟跟女朋友野鸭走在没有人的路上，觉得很有情调。
+小鸟：“今晚，我..我可以抱你吗？”野鸭：“哎呀！人家不好意思嘛！”小鸟：“喔喔喔！好！那等你好意思的时候再抱你好了！”
 
-An inline math: \\\(E=mc^2\\\).
-
-A display math:
-
-$$
-i\hbar \frac{\partial \Psi}{\partial t} = -\frac{\hbar^2}{2m}
-\frac{\partial^2 \Psi}{\partial x^2} + V \Psi
-$$
