@@ -1,21 +1,16 @@
 ---
 layout: post
-title: Paddle OCR project
+title: Paddle OCR Project
 date: 2023-11-10 16:28 +0800
 last_modified_at: 2023-11-10 16:28 +0800
 tags: [OCR, Paddle]
 toc:  true
 ---
-PaddleOCR(飞桨OCR) github 开源
 
+PaddleOCR(飞桨OCR) github 开源
 https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.3/ppstructure/README_ch.md
 
-PP-Structure是一个可用于复杂文档结构分析和处理的OCR工具包，主要特性如下：
-- 支持对图片形式的文档进行版面分析，可以划分文字、标题、表格、图片以及列表5类区域（与Layout-Parser联合使用）
-- 支持文字、标题、图片以及列表区域提取为文字字段（与PP-OCR联合使用）
-- 支持表格区域进行结构化分析，最终结果输出Excel文件
-- 支持python whl包和命令行两种方式，简单易用
-- 支持版面分析和表格结构化两类任务自定义训练
+PP-Structure是一个可用于复杂文档结构分析和处理的OCR工具包.
 
 Install：
 
@@ -40,19 +35,13 @@ pip3 install -U https://paddleocr.bj.bcebos.com/whl/layoutparser-0.0.0-py3-none-
 pip install "paddleocr>=2.2" # 推荐使用2.2+版本
 
 2: 完整克隆PaddleOCR源码(预测+训练)
-【推荐】gitclone https://github.com/PaddlePaddle/PaddleOCR
+gitclone https://github.com/PaddlePaddle/PaddleOCR
 
-#如果因为网络问题无法pull成功，也可选择使用码云上的托管：
-git clonehttps://gitee.com/paddlepaddle/PaddleOCR
-
-#注：码云托管代码可能无法实时同步本github项目更新，存在3~5天延时，请优先使用推荐方式。
 
 使用：
 命令行使用：paddleocr--image_dir=../doc/table/1.png --type=structure
 
 Python脚本使用：
-
-
 
 
 离线模式clone整个github源码：
