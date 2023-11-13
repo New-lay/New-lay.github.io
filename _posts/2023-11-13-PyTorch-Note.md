@@ -7,6 +7,8 @@ date: 2023-11-13 15:33 +0800
 
 Tensorflow 工程化，语言过于底层，因此有必要学习PyTorch（偏向学术）。
 
+存在以下几个主流框架：Tensorflow, Caffe, Theano, Torch(PyTorch), MXNet
+
 Tensorflow：首先要介绍的就是Google 开源的Tensorflow，这是一款使用C++语言开发的开源数学计算软件，使用数据流图（Data Flow Graph）的形式进行计算。图中的节点代表数学运算，而图中的线条表示多维数据数组（tensor）之间的交互。Tensorflow灵活的架构可以部署在一个或多个CPU、GPU的台式及服务器中，或者使用单一的API应用在移动设备中。最初是由研究人员和Google Brainu团队针对机器学习和深度神经网络进行研究而开发，是目前全世界使用人数最多、社区最为庞大的一个框架，因为是Google公司出品，所以维护和更新也比较频繁，并且有着python和C++的接口，教程也非常完善，同时很多论文复现的第一个版本都是基于Tensorflow写的，所以是深度学习框架默认的老大。
 由于其语言太过于底层，目前有很多基于Tensorflow的第三方抽象库将Tensorflow的函数进行封装，使其变得简洁，比较有名的几个是Keras，Tflearn，tfslim，以及TensorLayer。
 
