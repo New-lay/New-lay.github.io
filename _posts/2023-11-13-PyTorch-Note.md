@@ -5,7 +5,7 @@ tags: Notes
 date: 2023-11-13 15:33 +0800
 ---
 
-**Tensorflow 工程化，语言过于底层，因此有必要学习PyTorch（偏向学术）。**
+Tensorflow 工程化，语言过于底层，因此有必要学习PyTorch（偏向学术）。
 
 存在以下几个主流框架：Tensorflow, Caffe, Theano, Torch(PyTorch), MXNet
 
