@@ -6,6 +6,14 @@ tags: Story
 date: 2023-11-22 14:33 +0800
 ---
 
+<br>
+
+<figure>
+  <figcaption>Listen to the Story:</figcaption>
+  <audio controls src="/1.mp3">
+    <a href="/1.mp3"> Download audio </a>
+  </audio>
+</figure>
 
 <br>
 《小王子》以一位飞行员作为故事叙述者，讲述了小王子从自己星球出发前往地球的过程中，所经历的各种历险。所有的大人都是孩子，只要你未曾遗忘。
