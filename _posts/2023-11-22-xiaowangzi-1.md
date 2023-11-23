@@ -111,3 +111,8 @@ That is why, at the age of six, I gave up what might have been a magnificent car
 
 就这样，在六岁的那年，我就放弃了当画家这一美好的职业。
 <br>
+
+
+<br>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+本文总阅读量<span id="busuanzi_value_page_pv"></span>次
